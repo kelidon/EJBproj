@@ -1,2 +1,2 @@
 # EJBproj 
-simple ejb project with liberty server & postgres db
+simple ejb project with liberty server, postgres db & maven
